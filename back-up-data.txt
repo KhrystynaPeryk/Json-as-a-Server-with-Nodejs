@@ -1,0 +1,76 @@
+{
+    "ws-test-workspace": {
+        "workspace_id": "ws-WhwbBhEUwHMuUG5y",
+        "team_email": [
+            "oleksandr.peryk@adia.ae",
+            "oleksandr.peryk@adia.ae"
+        ],
+        "email_on_error": "yes",
+        "email_on_success": "no",
+        "email_on_discarded": "yes",
+        "apply_on_success": "yes",
+        "email_on_apply": "yes",
+        "apply_destroys_tolerance": "5",
+        "apply_changes_tolerance": "1"
+    },
+        "ws-keyvault-correction": {
+        "workspace_id": "ws-s2rPCyPfAhH6iASa",
+        "team_email": [
+            "ITD_Core_HCA@adia.ae"
+        ],
+        "email_on_error": "yes",
+        "email_on_success": "no",
+        "email_on_discarded": "yes",
+        "apply_on_success": "yes",
+        "email_on_apply": "yes",
+        "apply_destroys_tolerance": "-1",
+        "apply_changes_tolerance": "-1"
+    },
+        "ws-non-prod-adc": {
+        "workspace_id": "ws-CP7G9pnNczXpahin",
+        "team_email": [
+            "ITD_Core_HCA@adia.ae"
+        ],
+        "email_on_error": "yes",
+        "email_on_success": "no",
+        "email_on_discarded": "yes",
+        "apply_on_success": "yes",
+        "email_on_apply": "yes"
+    }
+}
+
+
+sample 
+
+
+    "ws-test-workspace": {
+        "workspace_id": "TEST",
+        "team_email": [
+            "TEST@adia.ae",
+            "TEST@adia.ae"
+        ],
+        "email_on_error": "yes",
+        "email_on_success": "no",
+        "email_on_discarded": "yes",
+        "apply_on_success": "yes",
+        "email_on_apply": "yes",
+        "apply_destroys_tolerance": "7",
+        "apply_changes_tolerance": "0"
+    }
+
+    const obj = {
+        'ws-test-workspace': {
+        workspace_id: 'TEST',
+        team_email: [
+            "TEST@adia.ae",
+            "TEST@adia.ae"
+        ],
+        email_on_error: "yes",
+        email_on_success: "no",
+        email_on_discarded: "yes",
+        apply_on_success: "yes",
+        email_on_apply: "yes",
+        apply_destroys_tolerance: 7,
+        apply_changes_tolerance: 0
+    }
+    }

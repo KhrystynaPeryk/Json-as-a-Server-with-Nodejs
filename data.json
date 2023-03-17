@@ -1,0 +1,173 @@
+{
+  "ws-test-workspace": {
+    "workspace_id": "ws-WhwbBhEUwHMuUG5y",
+    "team_email": [
+      "oleksandr.peryk@adia.ae",
+      "oleksandr.peryk@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "5",
+    "apply_changes_tolerance": "1"
+  },
+  "ws-keyvault-correction": {
+    "workspace_id": "ws-s2rPCyPfAhH6iASa",
+    "team_email": [
+      "ITD_Core_HCA@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "-1",
+    "apply_changes_tolerance": "-1"
+  },
+  "ws-non-prod-adc": {
+    "workspace_id": "ws-CP7G9pnNczXpahin",
+    "team_email": [
+      "ITD_Core_HCA@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes"
+  },
+  "ws-test-workspace-test": {
+    "workspace_id": "ws-WhwbBhEwHMuUG5y",
+    "team_email": [
+      "oleksandr.peryk@adia.ae",
+      "oleksandr.peryk@adia.ae"
+    ],
+    "email_on_error": "no",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "5",
+    "apply_changes_tolerance": "1"
+  },
+  "ws-keyvault-correction-test": {
+    "workspace_id": "ws-s2rPyPfAhH6iASa",
+    "team_email": [
+      "ITD_Core_HCA@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "no",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "-1",
+    "apply_changes_tolerance": "-1"
+  },
+  "ws-non-prod-adc-test": {
+    "workspace_id": "ws-CP79pnNczXpahin",
+    "team_email": [
+      "ITD_Core_HCA@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "no",
+    "email_on_apply": "yes"
+  },
+  "ws-test-workspace-fake": {
+    "workspace_id": "ws-WhwbBhEUuUG5y",
+    "team_email": [
+      "oleksandr.peryk@adia.ae",
+      "oleksandr.peryk@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "5",
+    "apply_changes_tolerance": "1"
+  },
+  "ws-keyvault-correction-fake": {
+    "workspace_id": "ws-s2rPCyAhH6iASa",
+    "team_email": [
+      "ITD_Core_HCA@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "124345",
+    "apply_changes_tolerance": "-1"
+  },
+  "ws-non-prod-fake": {
+    "workspace_id": "ws-CP7pnNczXpahin",
+    "team_email": [
+      "ITD_Core_HCA@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes"
+  },
+  "ws-test-workspace-haha": {
+    "workspace_id": "ws-WhwbBhEwHMuUG5",
+    "team_email": [
+      "oleksandr.peryk@adia.ae",
+      "oleksandr.peryk@adia.ae"
+    ],
+    "email_on_error": "no",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "5",
+    "apply_changes_tolerance": "123"
+  },
+  "ws-keyvault-correction-haha": {
+    "workspace_id": "ws-s2rPyPfAhH6iAa",
+    "team_email": [
+      "ITD_Core_HCA@adia.ae",
+      "kristik9991@gmail.com",
+      "kristik4335@gmail.com"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "no",
+    "apply_on_success": "yes",
+    "email_on_apply": "yes",
+    "apply_destroys_tolerance": "-1",
+    "apply_changes_tolerance": "-177"
+  },
+  "ws-non-prod-adc-haha": {
+    "workspace_id": "ws-CP79pnNczXpain",
+    "team_email": [
+      "testA@adia.ae",
+      "ITD_Corteste_HCA@adia.ae",
+      "ITD_Cosesrre_HCA@adia.ae",
+      "IserTD_Core_HCA@adia.ae",
+      "IsetTD_Core_HCA@adia.ae",
+      "testA@adia.ae",
+      "ITD_Corteste_HCA@adia.ae",
+      "ITD_Cosesrre_HCA@adia.ae",
+      "IserTD_Core_HCA@adia.ae"
+    ],
+    "email_on_error": "yes",
+    "email_on_success": "no",
+    "email_on_discarded": "yes",
+    "apply_on_success": "no",
+    "email_on_apply": "yes"
+  },
+  "ws-prod-adc-haha-testtt": {
+    "workspace_id": "ws-CPdtgyjnNczXpain",
+    "team_email": [],
+    "apply_on_success": "no",
+    "email_on_apply": "no",
+    "email_on_discarded": "no",
+    "email_on_error": "no",
+    "email_on_success": "no"
+  }
+}
